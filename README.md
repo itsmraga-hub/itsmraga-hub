@@ -4,12 +4,16 @@
 - 👀 I’m interested in <mark>Web Development</mark> and Software Development
 - 🌱 I’m currently learning the Django framework
 - 💞️ I’m looking to collaborate on `Django` as well as `Node.js` development projects
-- 📫 Reach me by [Mobile No](0795 600499) or text via [Email](itsragamit@gmail.com)
+- 📫 Reach me by <!--[Mobile No](0795 600499) or text via--> [Email](itsragamit@gmail.com)
 
 
 ## Languages I am learning / proficient in
-- `Python` : Used `Django` in several applications, getting quite good at it
-- `Javascript` : Got started on javascript for frontend and looking to get into `Node.js` for developing API's
+- `Python`
+- `Django`
+- `Javascript`
+- `C`
+- `Ruby on rails`
+- `HTML and CSS`
 
 <!---
 itsmraga-hub/itsmraga-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
