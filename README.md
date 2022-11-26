@@ -11,7 +11,7 @@
 - HTML & CSS
 - JavaScript
 - React & Redux
-- Python
+- Python (Django)
 - Ruby (Ruby on rails)
 
 <!---
