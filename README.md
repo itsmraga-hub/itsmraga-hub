@@ -3,7 +3,7 @@
 - 👋 Hi, I’m <mark>**William Raga**</mark>
 - 👀 I’m interested in <mark>Web Programming</mark> and Software Engineering.
 - 🌱 I’m currently learning the `Ruby on rails` framework.
-- 💞️ I’m looking to collaborate on `Ruby on rails` for backend as well as `React & Redux` development projects for front-end.
+- 💞️ I’m looking to collaborate on `Ruby on rails` to develop API's and on `React & Redux` development projects for front-end and consuming the API endpoints.
 - 📫 Reach me by <!--[Mobile No](0795 600499) or text via--> [Email](itsragamit@gmail.com).
 
 ## Specialization
