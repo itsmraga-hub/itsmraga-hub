@@ -13,6 +13,8 @@
 - React & Redux
 - Python (Django)
 - Ruby (Ruby on rails)
+- REST API development in Rails and Django
+- Consuming REST APIs
 
 <!---
 itsmraga-hub/itsmraga-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
