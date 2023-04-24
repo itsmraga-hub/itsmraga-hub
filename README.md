@@ -13,7 +13,7 @@
 - React & Redux
 - Python (Django)
 - Ruby (Ruby on rails)
-- REST API development in Rails and Django
+- REST API development in Ruby(Ruby on Rails) and Python(Django)
 - Consuming REST APIs
 
 <!---
