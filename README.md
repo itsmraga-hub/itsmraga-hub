@@ -3,7 +3,7 @@
 - 👋 Hi, I’m <mark>**William Raga**</mark>
 - 👀 I’m aSoftware Engineer.
 - 🌱 I’m currently a developer using the `Java spring` & `.NET CORE` frameworks.
-- 💞️ I’m looking to collaborate on `Spring & .NET` to develop API's and on `React.js or Blazor` development projects for front-end and consuming the API endpoints.
+- 💞️ I’m looking to collaborate on `Spring & ASP.NET` to develop API's and on `React.js or Blazor` development projects for front-end and consuming the API endpoints.
 - 📫 Reach me by <!--[Mobile No](0795 600499) or text via--> [Email](ragawilliam570@gmail.com).
 
 ## Specialization
