@@ -11,7 +11,7 @@
 - Java (Spring boot)
 - ASP.NET CORE (C#)
 - React.js, Next.js
-- Blazor
+- Blazor, Blazor web assembly
 
 <!---
 itsmraga-hub/itsmraga-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
