@@ -18,10 +18,19 @@ itsmraga-hub/itsmraga-hub is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+## Primary Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
 ## GitHub Stats
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmraga-hub&show_icons=true&theme=radical)
 
 ## Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmraga-hub&layout=compact)](https://github.com/itsmraga-hub/github-readme-stats)
+
